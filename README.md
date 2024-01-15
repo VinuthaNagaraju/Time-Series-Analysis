@@ -1,6 +1,6 @@
 # Time-Series-Analysis
 Analysis on time series data to forecast pressure 
-The historical weather dataset from Dublin Airport, spanning over eight decades from 1942 to 2023, serves as a
+The historical weather dataset from Dublin Airport, spanning over eight decades from 1942 to 2023, serves as a
 valuable collection for unraveling the patterns of atmospheric
 pressure.It consists of 29889 entries and 9 features related to
 weather recorded for different dates. As a crucial variable influencing weather dynamics,
